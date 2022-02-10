@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on Software Development
-- 📫 How to reach me Software Development
+- 📫 How to reach me felipe.andres.rh@gmail.com
 
 <!---
 ksoze84/ksoze84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
