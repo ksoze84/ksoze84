@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ksoze84
+- 👋 Hi, I’m Felipe Rodriguez Herrera
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on Software Development
